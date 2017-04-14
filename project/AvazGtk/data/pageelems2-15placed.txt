@@ -1,0 +1,15 @@
+0	*look,say,be,do,think,go,have,can,see,know,want,mean,get,tell,put
+1	a,and,be,her,them,my,me,*him,it,more,you,*this,that,the,to
+2	bed,same,floor,next,one,girl,big,boy,door,two,way,car,right,baby,first
+3	a,and,be,do,take,go,have,can,would,look,*in,up,all,*come,to
+4	a,and,be,do,think,go,have,can,see,know,want,*for,get,*look,to
+5	a,what,very,do,one,go,here,no,*not,two,you,now,that,the,*there
+6	a,and,out,an,of,with,by,*than,it,in,on,at,for,the,to
+7	a,come,be,do,one,go,me,make,see,look,you,your,get,the,put
+8	a,what,be,not,*this,something,have,i,it,in,you,your,that,the,to
+9	there,and,out,from,down,with,by,off,back,in,on,up,for,ahead,to
+10	a,what,he,let,one,go,then,i,it,two,you,she,that,the,put
+11	*few,nice,very,long,great,girl,big,boy,minute,look,man,lot,little,baby,good
+12	a,they,be,do,one,*there,have,i,it,*he,you,she,we,the,to
+13	a,come,be,do,one,go,*put,no,see,two,*not,your,get,the,to
+14	a,what,this,her,one,my,his,how,it,two,top,your,that,the,to

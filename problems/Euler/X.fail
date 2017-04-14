@@ -1,0 +1,20 @@
+module X (primesLessThan) where
+
+data Eratosthenes = Erat [Int] [Int] | Osthenes [Int] deriving Show
+
+eratos :: Int -> Eratosthenes
+eratos n = Erat [] [3,5..n]
+
+next :: Eratosthenes -> Eratosthenes
+next input = case input of Erat prime sieve -> if null sieve then Osthenes prime else Erat ((head sieve):prime) (filter (\x-> (mod x (head sieve))/=0) sieve)
+                           _                -> input
+
+output :: Eratosthenes -> Eratosthenes
+output inp = case inp of Erat _ _ -> output $ next inp
+                         _        -> inp
+
+fromOsthen :: Eratosthenes -> [Int]
+fromOsthen inp = case inp of Osthenes y -> y
+
+primesLessThan :: Int -> [Int]
+primesLessThan = fromOsthen.output.eratos

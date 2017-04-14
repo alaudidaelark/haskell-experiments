@@ -1,0 +1,924 @@
+i	Pronouns
+me	Pronouns
+mine	Pronouns
+my	Pronouns
+myself	Pronouns
+we	Pronouns
+us	Pronouns
+our	Pronouns
+ours	Pronouns
+ourselves	Pronouns
+you	Pronouns
+your	Pronouns
+yourself	Pronouns
+he	Pronouns
+him	Pronouns
+his	Pronouns
+himself	Pronouns
+she	Pronouns
+her	Pronouns
+hers	Pronouns
+herself	Pronouns
+it	Pronouns
+its	Pronouns
+they	Pronouns
+them	Pronouns
+their	Pronouns
+theirs	Pronouns
+both	Pronouns
+actor	Professions
+artist	Professions
+astronaut	Professions
+athlete	Professions
+ballerina	Professions
+boss	Professions
+businessman	Professions
+coach	Professions
+dancer	Professions
+dentist	Professions
+detective	Professions
+diver	Professions
+doctor	Professions
+explorer	Professions
+farmer	Professions
+governor	Professions
+judge	Professions
+landscaper	Professions
+lawyer	Professions
+lifeguard	Professions
+model	Professions
+nurse	Professions
+photographer	Professions
+pianist	Professions
+pilot	Professions
+politician	Professions
+prisoner	Professions
+rabbi	Professions
+reporter	Professions
+sailor	Professions
+scientist	Professions
+singer	Professions
+soldier	Professions
+sportsman	Professions
+teacher	Professions
+veterinarian	Professions
+alien	Characters
+clown	Characters
+dragon	Characters
+elf	Characters
+fairy	Characters
+genie	Characters
+ghost	Characters
+hero	Characters
+king	Characters
+knight	Characters
+magician	Characters
+pirate	Characters
+police	Characters
+president	Characters
+prince	Characters
+princess	Characters
+prisoner	Characters
+queen	Characters
+robber	Characters
+superman	Characters
+unicorn	Characters
+big	Size
+small	Size
+medium	Size
+large	Size
+little	Size
+tall	Size
+short	Size
+long	Size
+fat	Size
+thin	Size
+loose	Size
+tight	Size
+afraid	Feeling
+angry	Feeling
+annoy	Feeling
+ashamed	Feeling
+awake	Feeling
+better	Feeling
+bore	Feeling
+bother	Feeling
+busy	Feeling
+calm	Feeling
+careful	Feeling
+confuse	Feeling
+cry	Feeling
+curious	Feeling
+depress	Feeling
+discourage	Feeling
+excite	Feeling
+frustrate	Feeling
+funny	Feeling
+happy	Feeling
+hungry	Feeling
+hurt	Feeling
+jealous	Feeling
+laugh	Feeling
+lazy	Feeling
+lonely	Feeling
+miss	Feeling
+pain	Feeling
+proud	Feeling
+relax	Feeling
+sad	Feeling
+scare	Feeling
+shy	Feeling
+sick	Feeling
+silly	Feeling
+sleepy	Feeling
+surprise	Feeling
+thankful	Feeling
+thirsty	Feeling
+uncomfortable	Feeling
+upset	Feeling
+worry	Feeling
+black	Colors
+blue	Colors
+brown	Colors
+gold	Colors
+green	Colors
+grey	Colors
+orange	Colors
+pink	Colors
+purple	Colors
+red	Colors
+silver	Colors
+tan	Colors
+white	Colors
+yellow	Colors
+bright	Colors
+dark	Colors
+circle	Shapes
+conical	Shapes
+cube	Shapes
+cylindrical	Shapes
+line	Shapes
+oval	Shapes
+pyramid	Shapes
+rectangular	Shapes
+round	Shapes
+spherical	Shapes
+square	Shapes
+loud	Sounds and smell
+quiet	Sounds and smell
+scream	Sounds and smell
+smelly	Sounds and smell
+awesome	Taste
+awful	Taste
+bitter	Taste
+bland	Taste
+cold	Taste
+delicious	Taste
+hot	Taste
+sour	Taste
+sweet	Taste
+wet	Touch
+dry	Touch
+hard	Touch
+soft	Touch
+rough	Touch
+smooth	Touch
+thick	Touch
+thin	Touch
+soggy	Touch
+bumpy	Touch
+fuzzy	Touch
+sticky	Touch
+slippery	Touch
+dull	Touch
+sharp	Touch
+cool	Touch
+warm	Touch
+fast	Time
+fast	Time
+quick	Time
+ready	Time
+slow	Time
+soon	Time
+all	Quantity
+almost	Quantity
+another	Quantity
+both	Quantity
+cheap	Quantity
+empty	Quantity
+enough	Quantity
+even	Quantity
+expensive	Quantity
+extra	Quantity
+few	Quantity
+full	Quantity
+half	Quantity
+little	Quantity
+lot	Quantity
+many	Quantity
+more	Quantity
+most	Quantity
+much	Quantity
+only	Quantity
+part	Quantity
+some	Quantity
+whole	Quantity
+east	Directions
+west	Directions
+north	Directions
+south	Directions
+hot	Weather
+cold	Weather
+warm	Weather
+rain	Weather
+snow	Weather
+foggy	Weather
+freezing	Weather
+thunder	Weather
+lightning	Weather
+cyclone	Weather
+earthquake	Weather
+fire	Weather
+flood	Weather
+rainbow	Weather
+tornado	Weather
+tsunami	Weather
+volcano	Weather
+attic	House rooms
+bathroom	House rooms
+bedroom	House rooms
+garage	House rooms
+garden	House rooms
+kitchen	House rooms
+patio	House rooms
+porch	House rooms
+toilet	House rooms
+auditorium	School places
+cafeteria	School places
+classroom	School places
+college	School places
+gym	School places
+library	School places
+toilet	School places
+university	School places
+closet	School places
+locker	School places
+stage	School places
+track	School places
+aquarium	Fun places
+auditorium	Fun places
+beach	Fun places
+circus	Fun places
+concert	Fun places
+farm	Fun places
+festival	Fun places
+movie	Fun places
+museum	Fun places
+park	Fun places
+play	Fun places
+playground	Fun places
+zoo	Fun places
+bakery	Stores
+chemist	Stores
+hairdresser	Stores
+supermarket	Stores
+border	Stores
+target	Stores
+bakery	Places to eat
+pizzeria	Places to eat
+restaurant	Places to eat
+town	Public places
+province	Public places
+district	Public places
+city	Public places
+state	Public places
+country	Public places
+continent	Public places
+airport	Public places
+bank	Public places
+bridge	Public places
+castle	Public places
+church	Public places
+factory	Public places
+garage	Public places
+gym	Public places
+hospital	Public places
+jail	Public places
+synagogue	Public places
+laundromat	Public places
+library	Public places
+mosque	Public places
+motel	Public places
+stadium	Public places
+synagogue	Public places
+yard	Public places
+building	Building parts
+cabinet	Building parts
+ceiling	Building parts
+closet	Building parts
+corner	Building parts
+door	Building parts
+elevator	Building parts
+escalator	Building parts
+fireplace	Building parts
+floor	Building parts
+gate	Building parts
+hallway	Building parts
+ramp	Building parts
+roof	Building parts
+shelf	Building parts
+wall	Building parts
+wallpaper	Building parts
+window	Building parts
+africa	Continents
+asia	Continents
+australia	Continents
+europe	Continents
+usa	Countries
+canada	Countries
+mexico	Countries
+afghanistan	Countries
+algeria	Countries
+argentina	Countries
+austria	Countries
+bangladesh	Countries
+belgium	Countries
+brazil	Countries
+cameroon	Countries
+chile	Countries
+china	Countries
+columbia	Countries
+croatia	Countries
+cuba	Countries
+denmark	Countries
+egypt	Countries
+ethiopia	Countries
+finland	Countries
+france	Countries
+germany	Countries
+ghana	Countries
+greece	Countries
+hungary	Countries
+iceland	Countries
+india	Countries
+indonesia	Countries
+iran	Countries
+iraq	Countries
+ireland	Countries
+israel	Countries
+italy	Countries
+jamaica	Countries
+japan	Countries
+jordan	Countries
+kenya	Countries
+lebanon	Countries
+libya	Countries
+madagascar	Countries
+malaysia	Countries
+netherlands	Countries
+norway	Countries
+pakistan	Countries
+palestine	Countries
+panama	Countries
+paraguay	Countries
+poland	Countries
+portugal	Countries
+russia	Countries
+serbia	Countries
+singapore	Countries
+spain	Countries
+sweden	Countries
+switzerland	Countries
+taiwan	Countries
+tanzania	Countries
+thailand	Countries
+turkey	Countries
+uganda	Countries
+uruguay	Countries
+venezuela	Countries
+vietnam	Countries
+zambia	Countries
+bacon	Breakfast
+bagel	Breakfast
+biscuit	Breakfast
+bread	Breakfast
+bun	Breakfast
+butter	Breakfast
+cereal	Breakfast
+cheese	Breakfast
+coffee	Breakfast
+cookie	Breakfast
+croissant	Breakfast
+donut	Breakfast
+fruit	Breakfast
+ham	Breakfast
+jam	Breakfast
+jelly	Breakfast
+milk	Breakfast
+muffin	Breakfast
+oatmeal	Breakfast
+omelette	Breakfast
+pancake	Breakfast
+pastry	Breakfast
+porridge	Breakfast
+sandwich	Breakfast
+sausage	Breakfast
+sugar	Breakfast
+tea	Breakfast
+toast	Breakfast
+waffle	Breakfast
+sandwich	Lunch and dinner
+salad	Lunch and dinner
+soup	Lunch and dinner
+bread	Lunch and dinner
+bun	Lunch and dinner
+butter	Lunch and dinner
+fondue	Lunch and dinner
+fruit	Lunch and dinner
+hamburger	Lunch and dinner
+jam	Lunch and dinner
+noodle	Lunch and dinner
+pasta	Lunch and dinner
+pizza	Lunch and dinner
+ravioli	Lunch and dinner
+rice	Lunch and dinner
+roast	Lunch and dinner
+salsa	Lunch and dinner
+spaghetti	Lunch and dinner
+yogurt	Lunch and dinner
+bacon	Meat
+beef	Meat
+chicken	Meat
+crab	Meat
+fish	Meat
+ham	Meat
+herring	Meat
+mutton	Meat
+pork	Meat
+rib	Meat
+salami	Meat
+salmon	Meat
+shrimp	Meat
+sushi	Meat
+tuna	Meat
+turkey	Meat
+cookie	Snacks
+popcorn	Snacks
+ketchup	Snacks
+nut	Snacks
+peanut	Snacks
+almond	Snacks
+raisin	Snacks
+walnut	Snacks
+pecan	Snacks
+pistachio	Snacks
+cheese	Snacks
+cracker	Snacks
+pretzel	Snacks
+stuff	Side dishes
+salt	Add ons
+pepper	Add ons
+sugar	Add ons
+chilly	Add ons
+honey	Add ons
+condiment	Add ons
+oregano	Add ons
+gravy	Add ons
+margarine	Add ons
+pickle	Add ons
+salsa	Add ons
+ketchup	Add ons
+dip	Add ons
+syrup	Add ons
+artichoke	Vegetables
+asparagus	Vegetables
+bean	Vegetables
+beet	Vegetables
+broccoli	Vegetables
+cabbage	Vegetables
+carrot	Vegetables
+cauliflower	Vegetables
+celery	Vegetables
+coconut	Vegetables
+corn	Vegetables
+cucumber	Vegetables
+eggplant	Vegetables
+leek	Vegetables
+lettuce	Vegetables
+mushroom	Vegetables
+okra	Vegetables
+olive	Vegetables
+onion	Vegetables
+pea	Vegetables
+potato	Vegetables
+pumpkin	Vegetables
+radish	Vegetables
+spinach	Vegetables
+tomato	Vegetables
+yam	Vegetables
+zucchini	Vegetables
+apple	Fruits
+apricot	Fruits
+avocado	Fruits
+banana	Fruits
+berry	Fruits
+cherry	Fruits
+grapefruit	Fruits
+grape	Fruits
+guava	Fruits
+kiwi	Fruits
+lemon	Fruits
+lychee	Fruits
+mango	Fruits
+melon	Fruits
+orange	Fruits
+papaya	Fruits
+peach	Fruits
+pear	Fruits
+pineapple	Fruits
+plum	Fruits
+pomegranate	Fruits
+raspberry	Fruits
+strawberry	Fruits
+brownie	Dessert
+candy	Dessert
+chocolate	Dessert
+jello	Dessert
+lollipop	Dessert
+pastry	Dessert
+pie	Dessert
+pudding	Dessert
+milk	Drinks
+water	Drinks
+tea	Drinks
+coffee	Drinks
+coke	Drinks
+buttermilk	Drinks
+cider	Drinks
+cocktail	Drinks
+cola	Drinks
+lemonade	Drinks
+slush	Drinks
+soda	Drinks
+soup	Drinks
+sprite	Drinks
+bag	Things
+basket	Things
+battery	Things
+box	Things
+camera	Things
+candle	Things
+clock	Things
+everything	Things
+fan	Things
+flashlight	Things
+key	Things
+light	Things
+lock	Things
+mat	Things
+mirror	Things
+mobile	Things
+newspaper	Things
+nothing	Things
+switch	Things
+telephone	Things
+torch	Things
+tv	Things
+umbrella	Things
+watch	Things
+body	Body parts
+head	Body parts
+face	Body parts
+shoulder	Body parts
+chest	Body parts
+hand	Body parts
+leg	Body parts
+stomach	Body parts
+waist	Body parts
+back	Body parts
+hip	Body parts
+skin	Body parts
+voice	Body parts
+butt	Body parts
+muscle	Body parts
+bone	Body parts
+blood	Body parts
+forehead	Parts of face
+eye	Parts of face
+nose	Parts of face
+ear	Parts of face
+cheek	Parts of face
+chin	Parts of face
+eyebrow	Parts of face
+mouth	Parts of face
+tooth	Parts of face
+tongue	Parts of face
+lip	Parts of face
+throat	Parts of face
+neck	Parts of face
+hair	Parts of face
+arm	Parts of hand
+elbow	Parts of hand
+wrist	Parts of hand
+palm	Parts of hand
+finger	Parts of hand
+thumb	Parts of hand
+thigh	Parts of leg
+knee	Parts of leg
+ankle	Parts of leg
+foot	Parts of leg
+heel	Parts of leg
+toe	Parts of leg
+blouse	Clothes
+bra	Clothes
+coat	Clothes
+costume	Clothes
+dress	Clothes
+hanger	Clothes
+jacket	Clothes
+jeans	Clothes
+pocket	Clothes
+robe	Clothes
+shirt	Clothes
+skirt	Clothes
+slip	Clothes
+sweater	Clothes
+undershirt	Clothes
+underwear	Clothes
+vest	Clothes
+chair	Furniture
+table	Furniture
+bench	Furniture
+bookshelf	Furniture
+cabinet	Furniture
+carpet	Furniture
+couch	Furniture
+counter	Furniture
+closet	Furniture
+desk	Furniture
+drawer	Furniture
+dresser	Furniture
+ladder	Furniture
+recliner	Furniture
+rug	Furniture
+sofa	Furniture
+stool	Furniture
+clay	Hobbies
+color	Hobbies
+computer	Hobbies
+cooking	Hobbies
+dance	Hobbies
+draw	Hobbies
+gardening	Hobbies
+internet	Hobbies
+painting	Hobbies
+reading	Hobbies
+sewing	Hobbies
+chalk	Stationery
+clipboard	Stationery
+copier	Stationery
+crayon	Stationery
+envelope	Stationery
+eraser	Stationery
+folder	Stationery
+glue	Stationery
+highlighter	Stationery
+label	Stationery
+marker	Stationery
+paper	Stationery
+pencil	Stationery
+ruler	Stationery
+sharpener	Stationery
+stamp	Stationery		
+stapler	Stationery
+tape	Stationery
+velcro	Stationery
+ambulance	Transport
+bike	Transport
+boat	Transport
+bulldozer	Transport
+bus	Transport
+car	Transport
+crane	Transport
+jeep	Transport
+motorcycle	Transport
+stroller	Transport
+tank	Transport
+taxi	Transport
+tractor	Transport
+train	Transport
+truck	Transport
+van	Transport
+boat	Transport
+ferry	Transport
+ship	Transport
+submarine	Transport
+airplane	Transport
+helicopter	Transport
+jet	Transport
+rocket	Transport
+crow	Birds
+cuckoo	Birds
+duck	Birds
+eagle	Birds
+flamingo	Birds
+hen	Birds
+ostrich	Birds
+owl	Birds
+parrot	Birds
+peacock	Birds
+penguin	Birds
+pigeon	Birds
+robin	Birds
+sparrow	Birds
+turkey	Birds
+dog	Pet animals
+cat	Pet animals
+bunny	Pet animals
+fish	Pet animals
+goldfish	Pet animals
+hamster	Pet animals
+parrot	Pet animals
+rabbit	Pet animals
+squirrel	Pet animals
+turtle	Pet animals
+chicken	Farm animals
+cow	Farm animals
+donkey	Farm animals
+goat	Farm animals
+goose	Farm animals
+horse	Farm animals
+mouse	Farm animals
+pig	Farm animals
+pony	Farm animals
+rabbit	Farm animals
+rat	Farm animals
+rooster	Farm animals
+sheep	Farm animals
+bat	Wild animals
+bear	Wild animals
+chameleon	Wild animals
+cheetah	Wild animals
+chimpanzee	Wild animals
+cobra	Wild animals
+deer	Wild animals
+dinosaur	Wild animals
+elephant	Wild animals
+fox	Wild animals
+giraffe	Wild animals
+gorilla	Wild animals
+hippo	Wild animals
+kangaroo	Wild animals
+koala	Wild animals
+leopard	Wild animals
+lion	Wild animals
+monkey	Wild animals
+panda	Wild animals
+porcupine	Wild animals
+reindeer	Wild animals
+snake	Wild animals
+tiger	Wild animals
+wolf	Wild animals
+zebra	Wild animals
+alligator	Water animals
+crab	Water animals
+crocodile	Water animals
+dolphin	Water animals
+eel	Water animals
+fish	Water animals
+frog	Water animals
+goldfish	Water animals
+jellyfish	Water animals
+lobster	Water animals
+octopus	Water animals
+oyster	Water animals
+seal	Water animals
+shark	Water animals
+shrimp	Water animals
+starfish	Water animals
+stingray	Water animals
+turtle	Water animals
+whale	Water animals
+bunny	Baby animals
+calf	Baby animals
+chick	Baby animals
+cub	Baby animals
+duckling	Baby animals
+kitten	Baby animals
+piglet	Baby animals
+puppy	Baby animals
+aquarium	Animal homes
+cage	Animal homes
+farm	Animal homes
+kennel	Animal homes
+nest	Animal homes
+stable	Animal homes
+web	Animal homes
+ant	Insects
+bee	Insects
+beetle	Insects
+butterfly	Insects
+caterpillar	Insects
+cockroach	Insects
+dragonfly	Insects
+fly	Insects
+grasshopper	Insects
+ladybug	Insects
+lizard	Insects
+mosquito	Insects
+moth	Insects
+scorpion	Insects
+spider	Insects
+tick	Insects
+worm	Insects
+acorn	Plants
+bush	Plants
+cactus	Plants
+grass	Plants
+stick	Plants
+weed	Plants
+branch	Parts of a plant
+bud	Parts of a plant
+flower	Parts of a plant
+leaf	Parts of a plant
+petal	Parts of a plant
+pollen	Parts of a plant
+root	Parts of a plant
+seed	Parts of a plant
+stem	Parts of a plant
+trunk	Parts of a plant
+bouquet	Flowers
+carnation	Flowers
+daffodil	Flowers
+daisy	Flowers
+hibiscus	Flowers
+lotus	Flowers
+marigold	Flowers
+poppy	Flowers
+rise	Flowers
+sunflower	Flowers
+axe	Tools
+chain	Tools
+clamp	Tools
+clipper	Tools
+drill	Tools
+flashlight	Tools
+hammer	Tools
+hose	Tools
+ladder	Tools
+nail	Tools
+ply	Tools
+rake	Tools
+rope	Tools
+screw	Tools
+screwdriver	Tools
+shovel	Tools
+wood	Tools
+wrench	Tools
+alabama	US states
+alaska	US states
+arizona	US states
+arkansas	US states
+california	US states
+colorado	US states
+connecticut	US states
+delaware	US states
+florida	US states
+georgia	US states
+hawaii	US states
+idaho	US states
+illinois	US states
+indiana	US states
+iowa	US states
+kansas	US states
+kentucky	US states
+louisiana	US states
+maine	US states
+maryland	US states
+massachusetts	US states
+michigan	US states
+minnesota	US states
+mississippi	US states
+missouri	US states
+montana	US states
+nebraska	US states
+nevada	US states
+ohio	US states
+oklahoma	US states
+oregon	US states
+pennsylvania	US states
+tennessee	US states
+texas	US states
+utah	US states
+vermont	US states
+virginia	US states
+washington	US states
+wisconsin	US states
+wyoming	US states
+alberta	Canadian provinces
+manitoba	Canadian provinces
+ontario	Canadian provinces
+quebec	Canadian provinces
+saskatchewan	Canadian provinces
+tasmania	Australian states
+victoria	Australian states
